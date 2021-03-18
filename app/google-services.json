@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "765670731666",
+    "firebase_url": "https://dapple-8d36f.firebaseio.com",
+    "project_id": "dapple-8d36f",
+    "storage_bucket": "dapple-8d36f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765670731666:android:66a9e94effa1cd21009b4b",
+        "android_client_info": {
+          "package_name": "com.dapplecompany.dapple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765670731666-i1fmfr9jk7tmekah6s71ubr143aaemot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATiz03l1lx40bHmq1BesZOjlsvTl-TjkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765670731666-i1fmfr9jk7tmekah6s71ubr143aaemot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

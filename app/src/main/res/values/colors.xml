@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000</color>
+    <color name="toolbar">#fafafa</color>
+    <color name="colorPrimaryDark">#E33D08</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="golgelik">#F8641F</color>
+    <color name="beyaz">#FFF</color>
+    <color name="siyah">#000</color>
+</resources>
